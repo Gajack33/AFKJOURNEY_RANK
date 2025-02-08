@@ -1,0 +1,36 @@
+# Configuration du bot Discord
+bot:
+  name: "AFK Journey Rank Bot"
+  description: "Bot de suivi des classements AFK Journey"
+  version: "1.0.0"
+  
+# Configuration des commandes
+commands:
+  prefix: "/"
+  cooldown: 5  # Délai entre les commandes en secondes
+  
+# Configuration des embeds
+embed_config:
+  footer_text: "AFK Journey Rank Tracker"
+  thumbnail_url: "https://votre_url_image_ici.png"
+  
+# Couleurs des embeds (format hexadécimal)
+colors:
+  info: 0x3498db      # Bleu
+  success: 0x2ecc71   # Vert
+  warning: 0xf1c40f   # Jaune
+  error: 0xe74c3c     # Rouge
+  
+# Configuration des permissions
+permissions:
+  admin_roles:
+    - "Admin"
+    - "Modérateur"
+  user_roles:
+    - "Membre"
+    
+# Configuration des canaux
+channels:
+  rankings: "classements"      # Canal pour les classements
+  announcements: "annonces"    # Canal pour les annonces
+  logs: "logs-bot"            # Canal pour les logs 

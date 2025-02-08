@@ -1,0 +1,23 @@
+# Automatisation et détection de fenêtre
+pyautogui==0.9.54
+opencv-python==4.8.1.78
+pillow==10.1.0
+pywin32==306
+
+# OCR
+pytesseract==0.3.10
+
+# Base de données
+SQLAlchemy==2.0.23
+
+# Discord
+discord.py==2.3.2
+
+# Visualisation
+matplotlib==3.8.2
+seaborn==0.13.0
+
+# Utilitaires
+PyYAML==6.0.1
+python-dotenv==1.0.0
+loguru==0.7.2 

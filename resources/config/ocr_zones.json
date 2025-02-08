@@ -1,0 +1,138 @@
+{
+    "date_j1": [
+        {
+            "x_percent": 0.49866666666666665,
+            "y_percent": 0.3860569715142429,
+            "width_percent": 0.108,
+            "height_percent": 0.03073463268365817
+        }
+    ],
+    "rank": [
+        {
+            "x_percent": 0.058666666666666666,
+            "y_percent": 0.4662668665667166,
+            "width_percent": 0.084,
+            "height_percent": 0.04272863568215892
+        },
+        {
+            "x_percent": 0.056,
+            "y_percent": 0.5629685157421289,
+            "width_percent": 0.09066666666666667,
+            "height_percent": 0.04122938530734633
+        },
+        {
+            "x_percent": 0.06266666666666666,
+            "y_percent": 0.6559220389805097,
+            "width_percent": 0.08266666666666667,
+            "height_percent": 0.04047976011994003
+        },
+        {
+            "x_percent": 0.064,
+            "y_percent": 0.7511244377811095,
+            "width_percent": 0.08,
+            "height_percent": 0.03973013493253373
+        },
+        {
+            "x_percent": 0.068,
+            "y_percent": 0.841079460269865,
+            "width_percent": 0.07466666666666667,
+            "height_percent": 0.035982008995502246
+        }
+    ],
+    "name": [
+        {
+            "x_percent": 0.2866666666666667,
+            "y_percent": 0.4625187406296852,
+            "width_percent": 0.39866666666666667,
+            "height_percent": 0.029985007496251874
+        },
+        {
+            "x_percent": 0.284,
+            "y_percent": 0.5577211394302849,
+            "width_percent": 0.4106666666666667,
+            "height_percent": 0.027736131934032984
+        },
+        {
+            "x_percent": 0.288,
+            "y_percent": 0.6491754122938531,
+            "width_percent": 0.4093333333333333,
+            "height_percent": 0.02923538230884558
+        },
+        {
+            "x_percent": 0.2866666666666667,
+            "y_percent": 0.7443778110944528,
+            "width_percent": 0.408,
+            "height_percent": 0.03298350824587706
+        },
+        {
+            "x_percent": 0.284,
+            "y_percent": 0.8335832083958021,
+            "width_percent": 0.37466666666666665,
+            "height_percent": 0.029985007496251874
+        }
+    ],
+    "guild": [
+        {
+            "x_percent": 0.33066666666666666,
+            "y_percent": 0.4955022488755622,
+            "width_percent": 0.356,
+            "height_percent": 0.023238380809595203
+        },
+        {
+            "x_percent": 0.33066666666666666,
+            "y_percent": 0.5892053973013494,
+            "width_percent": 0.368,
+            "height_percent": 0.024737631184407798
+        },
+        {
+            "x_percent": 0.33066666666666666,
+            "y_percent": 0.6821589205397302,
+            "width_percent": 0.36933333333333335,
+            "height_percent": 0.026986506746626688
+        },
+        {
+            "x_percent": 0.33066666666666666,
+            "y_percent": 0.7796101949025487,
+            "width_percent": 0.36666666666666664,
+            "height_percent": 0.024737631184407798
+        },
+        {
+            "x_percent": 0.3293333333333333,
+            "y_percent": 0.8665667166416792,
+            "width_percent": 0.332,
+            "height_percent": 0.02623688155922039
+        }
+    ],
+    "score": [
+        {
+            "x_percent": 0.784,
+            "y_percent": 0.48575712143928035,
+            "width_percent": 0.10666666666666667,
+            "height_percent": 0.031484257871064465
+        },
+        {
+            "x_percent": 0.7853333333333333,
+            "y_percent": 0.5787106446776612,
+            "width_percent": 0.11066666666666666,
+            "height_percent": 0.031484257871064465
+        },
+        {
+            "x_percent": 0.7853333333333333,
+            "y_percent": 0.6746626686656672,
+            "width_percent": 0.11333333333333333,
+            "height_percent": 0.02923538230884558
+        },
+        {
+            "x_percent": 0.784,
+            "y_percent": 0.767616191904048,
+            "width_percent": 0.11333333333333333,
+            "height_percent": 0.03073463268365817
+        },
+        {
+            "x_percent": 0.788,
+            "y_percent": 0.856071964017991,
+            "width_percent": 0.10533333333333333,
+            "height_percent": 0.034482758620689655
+        }
+    ]
+}

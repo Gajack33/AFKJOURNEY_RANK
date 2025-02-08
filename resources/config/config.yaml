@@ -1,0 +1,54 @@
+# Configuration générale
+app:
+  name: "Rank Tracker"
+  version: "1.0.0"
+  debug: false  # Peut être surchargé par DEBUG dans .env
+  log_level: "INFO"  # Peut être surchargé par LOG_LEVEL dans .env
+
+# Configuration de la fenêtre
+window:
+  resolution:
+    width: 750
+    height: 1334
+  title_pattern: "AFK Journey"
+  refresh_rate: 1.0  # Taux de rafraîchissement en secondes
+
+# Configuration OCR
+ocr:
+  language: "fra"
+  confidence_threshold: 80
+
+# Configuration de la base de données
+database:
+  url: "sqlite:///resources/data/database/rankings.db"
+  backup:
+    enabled: true
+    path: "resources/data/database/backups/"
+    frequency: "daily"  # daily, weekly, monthly
+
+# Configuration des captures d'écran
+screenshots:
+  format: "png"
+  quality: 95
+  temp_dir: "resources/data/screenshots/"
+
+# Configuration des classements
+rankings:
+  update_frequency: 86400  # 24 heures en secondes
+  max_retries: 3
+  retry_delay: 5  # secondes
+  scroll_delay: 0.5  # secondes entre chaque défilement
+
+# Configuration des visualisations
+visualization:
+  default_chart_style: "dark"
+  chart_dpi: 100
+  max_points: 30  # Nombre maximum de points sur les graphiques
+  cache_duration: 3600  # Durée de cache des graphiques en secondes
+
+# Chemins des fichiers de configuration
+paths:
+  config: "resources/config/config.yaml"
+  discord: "resources/config/discord.yaml"
+  mapping: "resources/data/mapping/"
+  navigation: "resources/config/navigation/" 

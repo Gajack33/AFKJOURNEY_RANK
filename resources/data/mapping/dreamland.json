@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "ranking_type": "dreamland",
+    "updated_at": "2025-01-21T15:30:15.030505",
+    "version": "1.0.0"
+  },
+  "positions": {
+    "EntrerRoyaumeOnirique": {
+      "x": 387,
+      "y": 473
+    },
+    "EntrerClassementOnirique": {
+      "x": 688,
+      "y": 130
+    },
+    "J-1": {
+      "x": 410,
+      "y": 518
+    },
+    "J-2": {
+      "x": 637,
+      "y": 525
+    },
+    "Retour": {
+      "x": 65,
+      "y": 1276
+    },
+    "Mode": {
+      "x": 323,
+      "y": 1268
+    }
+  }
+}
